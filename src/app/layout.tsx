@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import { SiteHeader } from '@/components/layout/site-header'
 import { SiteFooter } from '@/components/layout/site-footer'
+import { CookieConsent } from '@/components/cookie-consent'
 import './globals.css'
 
 export const metadata: Metadata = {
@@ -22,6 +23,7 @@ export default function RootLayout({
           {children}
         </div>
         <SiteFooter />
+        <CookieConsent />
       </body>
     </html>
   )

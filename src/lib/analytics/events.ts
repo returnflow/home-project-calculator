@@ -32,12 +32,21 @@ declare global {
 
 /**
  * Fire an analytics event. Never throws, never blocks.
+ * Respects cookie consent — only fires if user has granted consent.
  * If GA4 (gtag) is not loaded, the event is silently dropped in production
  * or logged to console in development.
  */
 export function track(event: AnalyticsEvent): void {
   try {
     const { name, payload } = event
+
+    // Gate tracking behind cookie consent
+    if (
+      typeof window !== 'undefined' &&
+      localStorage.getItem('cookie-consent') !== 'granted'
+    ) {
+      return
+    }
 
     if (typeof window !== 'undefined' && typeof window.gtag === 'function') {
       window.gtag('event', name, payload)
