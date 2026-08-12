@@ -1,7 +1,6 @@
 'use client'
 
 import { useEffect } from 'react'
-import { useRouter } from 'next/navigation'
 import { HONEYPOT_HIT_EVENT } from '@/components/honeypot/types'
 
 /**
@@ -10,8 +9,6 @@ import { HONEYPOT_HIT_EVENT } from '@/components/honeypot/types'
  * or typed the URL directly.
  */
 export default function AdminTrap() {
-  const router = useRouter()
-
   useEffect(() => {
     if (typeof window !== 'undefined') {
       window.dispatchEvent(
@@ -27,12 +24,14 @@ export default function AdminTrap() {
       }
 
       const timer = setTimeout(() => {
-        router.replace('/')
+        // Compute parent path (e.g., /base/login -> /base/)
+        const newPath = window.location.pathname.replace(/\/[^/]*$/, '/') || '/'
+        window.location.replace(newPath)
       }, 3000)
 
       return () => clearTimeout(timer)
     }
-  }, [router])
+  }, [])
 
   return (
     <div className="space-y-4 text-center">

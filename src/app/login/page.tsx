@@ -1,12 +1,9 @@
 'use client'
 
 import { useEffect } from 'react'
-import { useRouter } from 'next/navigation'
 import { HONEYPOT_HIT_EVENT } from '@/components/honeypot/types'
 
 export default function LoginTrap() {
-  const router = useRouter()
-
   useEffect(() => {
     if (typeof window !== 'undefined') {
       window.dispatchEvent(
@@ -20,11 +17,12 @@ export default function LoginTrap() {
         /* ignore */
       }
       const timer = setTimeout(() => {
-        router.replace('/')
+        const newPath = window.location.pathname.replace(/\/[^/]*$/, '/') || '/'
+        window.location.replace(newPath)
       }, 3000)
       return () => clearTimeout(timer)
     }
-  }, [router])
+  }, [])
 
   return (
     <div className="space-y-4 text-center">
