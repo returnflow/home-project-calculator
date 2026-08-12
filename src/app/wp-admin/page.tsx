@@ -1,9 +1,12 @@
 'use client'
 
 import { useEffect } from 'react'
+import { useRouter } from 'next/navigation'
 import { HONEYPOT_HIT_EVENT } from '@/components/honeypot/types'
 
 export default function WpAdminTrap() {
+  const router = useRouter()
+
   useEffect(() => {
     if (typeof window !== 'undefined') {
       window.dispatchEvent(
@@ -17,11 +20,11 @@ export default function WpAdminTrap() {
         /* ignore */
       }
       const timer = setTimeout(() => {
-        window.location.href = '/'
+        router.replace('/')
       }, 3000)
       return () => clearTimeout(timer)
     }
-  }, [])
+  }, [router])
 
   return (
     <div className="space-y-4 text-center">

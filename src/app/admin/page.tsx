@@ -1,6 +1,7 @@
 'use client'
 
 import { useEffect } from 'react'
+import { useRouter } from 'next/navigation'
 import { HONEYPOT_HIT_EVENT } from '@/components/honeypot/types'
 
 /**
@@ -9,31 +10,29 @@ import { HONEYPOT_HIT_EVENT } from '@/components/honeypot/types'
  * or typed the URL directly.
  */
 export default function AdminTrap() {
+  const router = useRouter()
+
   useEffect(() => {
-    // Log honeypot hit to analytics for monitoring
     if (typeof window !== 'undefined') {
-      // Fire a custom event that analytics can pick up if consent is granted
       window.dispatchEvent(
         new CustomEvent(HONEYPOT_HIT_EVENT, {
           detail: { path: '/admin', timestamp: Date.now() },
         })
       )
 
-      // Store local flag that this IP/session hit a honeypot
       try {
         sessionStorage.setItem('honeypot-hit', 'true')
       } catch {
-        // sessionStorage may be blocked in private mode
+        /* ignore */
       }
 
-      // Immediately navigate away to reduce dwell time for bots
       const timer = setTimeout(() => {
-        window.location.href = '/'
+        router.replace('/')
       }, 3000)
 
       return () => clearTimeout(timer)
     }
-  }, [])
+  }, [router])
 
   return (
     <div className="space-y-4 text-center">
