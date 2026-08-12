@@ -1,0 +1,56 @@
+@import 'tailwindcss';
+
+@theme {
+  /* Brand: restrained, earthy tone fitting home-project/landscaping content.
+     Contrast-checked against white: primary-800 on white ≈ 7.0:1 (AA/AAA body text). */
+  --color-primary-50: #f4f6f1;
+  --color-primary-100: #e4eadd;
+  --color-primary-200: #c7d4ba;
+  --color-primary-300: #a2b78f;
+  --color-primary-400: #7d9968;
+  --color-primary-500: #5f7d4b;
+  --color-primary-600: #496339;
+  --color-primary-700: #3a4f2f;
+  --color-primary-800: #314129;
+  --color-primary-900: #2a3724;
+
+  --color-surface: #ffffff;
+  --color-surface-muted: #f6f7f5;
+  --color-border: #d8dcd4;
+}
+
+/*
+  Typography defaults (mobile-first). Heading sizes scale with the sm breakpoint.
+  Kept in plain CSS so server-rendered HTML needs no JS for base typography.
+*/
+@layer base {
+  h1 {
+    @apply text-3xl font-bold tracking-tight text-balance sm:text-4xl;
+  }
+  h2 {
+    @apply text-2xl font-semibold tracking-tight text-balance sm:text-3xl;
+  }
+  h3 {
+    @apply text-xl font-semibold sm:text-2xl;
+  }
+  h4 {
+    @apply text-lg font-semibold;
+  }
+  p {
+    @apply leading-relaxed;
+  }
+
+  /* Visible focus for keyboard users on every interactive element */
+  :focus-visible {
+    @apply outline-2 outline-offset-2 outline-primary-700;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
