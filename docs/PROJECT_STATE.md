@@ -6,7 +6,7 @@ Phase 3 — In Progress
 
 ## Current milestone
 
-Staging deployed to GitHub Pages. Performance/accessibility audit complete. Next: AdSense readiness review.
+All 5 AdSense blockers resolved. Site ready for AdSense application review.
 
 ## Completed
 
@@ -44,10 +44,16 @@ Staging deployed to GitHub Pages. Performance/accessibility audit complete. Next
 - GitHub repository public at `returnflow/home-project-calculator`
 - GitHub Actions CI/CD workflow for automated Pages deployment
 - Live staging: `https://returnflow.github.io/home-project-calculator/`
+- Home page: real content with calculator grid and feature list
+- `/calculators` index page: all 7 calculators with descriptions
+- Privacy Policy page with cookie and analytics disclosure
+- Cookie consent banner with Accept/Decline, linked to Privacy Policy
+- Footer expanded with Home, Calculators, Privacy links
+- Analytics gated behind cookie consent
 
 ## Next
 
-1. AdSense readiness review (PROMPT-010).
+1. Apply for AdSense.
 2. Choose final domain/brand for custom domain.
 3. Configure Google Search Console.
 

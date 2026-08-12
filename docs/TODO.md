@@ -31,9 +31,14 @@
 
 - [x] Build remaining gravel cluster (6 distinct calculators)
 - [x] Submit sitemap (deployed with site)
+- [x] Fix home page placeholder content
+- [x] Add /calculators index page
+- [x] Add Privacy Policy
+- [x] Add cookie consent banner
+- [x] Expand footer with legal links
 - [ ] Configure Search Console
 - [x] Performance/accessibility audit
-- [ ] AdSense readiness review
+- [x] AdSense readiness review
 
 ## Phase 4
 
