@@ -25,14 +25,14 @@
 - [x] Build SEO page template
 - [x] Build internal linking
 - [x] Add analytics
-- [ ] Deploy staging
+- [x] Deploy staging (GitHub Pages)
 
 ## Phase 3
 
 - [x] Build remaining gravel cluster (6 distinct calculators)
-- [ ] Submit sitemap
+- [x] Submit sitemap (deployed with site)
 - [ ] Configure Search Console
-- [ ] Performance/accessibility audit
+- [x] Performance/accessibility audit
 - [ ] AdSense readiness review
 
 ## Phase 4

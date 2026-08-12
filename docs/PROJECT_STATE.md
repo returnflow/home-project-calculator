@@ -6,7 +6,7 @@ Phase 3 — In Progress
 
 ## Current milestone
 
-Analytics implemented. Gravel cluster complete (7 pages). Next: performance/accessibility audit, AdSense readiness.
+Staging deployed to GitHub Pages. Performance/accessibility audit complete. Next: AdSense readiness review.
 
 ## Completed
 
@@ -41,13 +41,15 @@ Analytics implemented. Gravel cluster complete (7 pages). Next: performance/acce
 - Analytics wired: `calculator_started`, `calculation_completed`, `calculator_error`, `material_selected`, `related_calculator_clicked`
 - Analytics tests: 3 tests (gtag call, no-throw, dev console log)
 - Typecheck, lint, unit tests (136), e2e test and production build (13 static pages) all green
+- GitHub repository public at `returnflow/home-project-calculator`
+- GitHub Actions CI/CD workflow for automated Pages deployment
+- Live staging: `https://returnflow.github.io/home-project-calculator/`
 
 ## Next
 
-1. Choose final domain/brand.
-2. Initialize GitHub repository.
-3. Performance/accessibility audit (PROMPT-009).
-4. AdSense readiness review (PROMPT-010).
+1. AdSense readiness review (PROMPT-010).
+2. Choose final domain/brand for custom domain.
+3. Configure Google Search Console.
 
 ## First production calculator
 
