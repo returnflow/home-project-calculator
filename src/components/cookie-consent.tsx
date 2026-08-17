@@ -1,5 +1,6 @@
 'use client'
 
+import Link from 'next/link'
 import { useCallback, useSyncExternalStore } from 'react'
 
 type ConsentState = 'pending' | 'granted' | 'denied'
@@ -70,9 +71,9 @@ export function CookieConsent() {
             button means you consent to the use of analytics cookies.
           </p>
           <p className="mt-1">
-            <a href="/privacy" className="text-primary-700 underline-offset-2 hover:underline">
+            <Link href="/privacy" className="text-primary-700 underline-offset-2 hover:underline">
               Learn more in our Privacy Policy
-            </a>
+            </Link>
             .
           </p>
         </div>

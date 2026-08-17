@@ -1,3 +1,4 @@
+import Link from 'next/link'
 import { Breadcrumbs } from '@/components/seo/breadcrumbs'
 import { buildMetadata } from '@/lib/seo/metadata'
 import { GravelCalculator } from './gravel-calculator'
@@ -57,14 +58,14 @@ export default function GravelCalculatorPage() {
         <h2 className="text-2xl font-semibold">Related Calculators</h2>
         <ul className="list-disc space-y-2 pl-5 text-gray-700">
           <li>
-            <a href="/calculators/gravel/pea-gravel-calculator" className="text-primary-700 hover:underline">
+            <Link href="/calculators/gravel/pea-gravel-calculator" className="text-primary-700 hover:underline">
               Pea Gravel Calculator
-            </a>
+            </Link>
           </li>
           <li>
-            <a href="/calculators/gravel/driveway-gravel-calculator" className="text-primary-700 hover:underline">
+            <Link href="/calculators/gravel/driveway-gravel-calculator" className="text-primary-700 hover:underline">
               Driveway Gravel Calculator
-            </a>
+            </Link>
           </li>
         </ul>
       </section>

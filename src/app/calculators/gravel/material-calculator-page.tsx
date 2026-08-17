@@ -1,5 +1,6 @@
 'use client'
 
+import Link from 'next/link'
 import { Breadcrumbs } from '@/components/seo/breadcrumbs'
 import { track } from '@/lib/analytics/events'
 import { GravelCalculator } from './gravel-calculator'
@@ -47,7 +48,7 @@ export function MaterialCalculatorPage({ config }: { config: MaterialPageConfig 
           <ul className="list-disc space-y-2 pl-5 text-gray-700">
           {config.relatedCalculators.map((item) => (
             <li key={item.href}>
-              <a
+              <Link
                 href={item.href}
                 className="text-primary-700 hover:underline"
                 onClick={() => {
@@ -58,7 +59,7 @@ export function MaterialCalculatorPage({ config }: { config: MaterialPageConfig 
                 }}
               >
                 {item.label}
-              </a>
+              </Link>
             </li>
           ))}
         </ul>

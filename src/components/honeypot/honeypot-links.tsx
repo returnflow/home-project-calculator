@@ -1,3 +1,5 @@
+import Link from 'next/link'
+
 /**
  * Invisible honeypot links placed in the site footer.
  * Legitimate users (with CSS enabled and using screen readers correctly)
@@ -9,9 +11,9 @@
 export function HoneypotLinks() {
   return (
     <div className="hidden" aria-hidden="true">
-      <a href="/admin">Admin Panel</a>
-      <a href="/wp-admin">WordPress Admin</a>
-      <a href="/login">Login</a>
+      <Link href="/admin">Admin Panel</Link>
+      <Link href="/wp-admin">WordPress Admin</Link>
+      <Link href="/login">Login</Link>
     </div>
   )
 }
