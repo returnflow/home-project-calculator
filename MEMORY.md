@@ -45,3 +45,4 @@
 |------|---------|
 | 2025-08-17 | Audited dependency setup. Confirmed mixed version locking (exact prod deps, loose dev deps). No security vulnerabilities. Flagged TypeScript `7.0.2` registry anomaly. Created this memory file convention. |
 | 2025-08-17 | Implemented HTTPS hardening: added CSP `upgrade-insecure-requests` meta tag, `HttpsEnforcer` component, secure preconnect hints, and `docs/HTTPS_SETUP.md` for hosting-layer configuration. Mixed content scan clean. |
+| 2025-08-17 | Fixed sitemap.xml and robots.txt for Search Console: corrected base URL from `https://example.com` to `https://returnflow.github.io/home-project-calculator`, added `Sitemap:` directive to robots.txt for auto-discovery. |
