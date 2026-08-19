@@ -1,0 +1,1905 @@
+{
+  "timestamp": "2026-08-19T17:06:39.290Z",
+  "totalPages": 16,
+  "avgScore": 80.7,
+  "p0Count": 17,
+  "p1Count": 9,
+  "p2Count": 0,
+  "p3Count": 0,
+  "pages": [
+    {
+      "urlPath": "/home-project-calculator/404",
+      "filePath": "C:\\Users\\paula\\Documents\\projects\\home-project\\home-project-calculator-ai-developer-pack\\dist\\404.html",
+      "title": "Home Project Calculator",
+      "titleLength": 23,
+      "description": "Accurate, easy-to-use calculators for home projects — starting with gravel and landscaping materials.",
+      "descriptionLength": 101,
+      "canonical": null,
+      "ogTitle": null,
+      "ogDescription": null,
+      "ogUrl": null,
+      "hasViewport": true,
+      "hasLang": true,
+      "h1": "404",
+      "h1Count": 1,
+      "hasCalculator": false,
+      "hasAnswerFirst": false,
+      "hasFAQ": false,
+      "hasHowItWorks": false,
+      "hasFormula": false,
+      "internalLinks": [
+        {
+          "href": "/home-project-calculator",
+          "text": "Home Project Calculator",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator",
+          "text": "Gravel calculators",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator",
+          "text": "Home",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators",
+          "text": "Calculators",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/privacy",
+          "text": "Privacy",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/admin",
+          "text": "Admin Panel",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/wp-admin",
+          "text": "WordPress Admin",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/login",
+          "text": "Login",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/privacy",
+          "text": "Learn more in our Privacy Policy",
+          "isBroken": false
+        }
+      ],
+      "structuredData": [],
+      "hasBreadcrumbSchema": false,
+      "hasFAQSchema": false,
+      "hasHowToSchema": false,
+      "hasSoftwareApplicationSchema": false,
+      "citationCount": 0,
+      "sourceLinks": [],
+      "noIndex": true,
+      "issues": [
+        {
+          "severity": "P0",
+          "category": "crawlability",
+          "message": "Missing canonical tag",
+          "fix": "Add <link rel=\"canonical\" href=\"...\">"
+        },
+        {
+          "severity": "P0",
+          "category": "crawlability",
+          "message": "Page has noindex directive",
+          "fix": "Remove noindex if page should be indexed"
+        },
+        {
+          "severity": "P1",
+          "category": "indexation",
+          "message": "Title too short (23 chars)",
+          "fix": "Expand title to 50-60 chars with primary keyword"
+        },
+        {
+          "severity": "P0",
+          "category": "structured-data",
+          "message": "No JSON-LD structured data",
+          "fix": "Add FAQPage, HowTo, SoftwareApplication, BreadcrumbList schemas"
+        }
+      ],
+      "score": 45
+    },
+    {
+      "urlPath": "/home-project-calculator/admin",
+      "filePath": "C:\\Users\\paula\\Documents\\projects\\home-project\\home-project-calculator-ai-developer-pack\\dist\\admin.html",
+      "title": "Home Project Calculator",
+      "titleLength": 23,
+      "description": "Accurate, easy-to-use calculators for home projects — starting with gravel and landscaping materials.",
+      "descriptionLength": 101,
+      "canonical": null,
+      "ogTitle": null,
+      "ogDescription": null,
+      "ogUrl": null,
+      "hasViewport": true,
+      "hasLang": true,
+      "h1": "Page Not Found",
+      "h1Count": 1,
+      "hasCalculator": false,
+      "hasAnswerFirst": false,
+      "hasFAQ": false,
+      "hasHowItWorks": false,
+      "hasFormula": false,
+      "internalLinks": [
+        {
+          "href": "/home-project-calculator",
+          "text": "Home Project Calculator",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator",
+          "text": "Gravel calculators",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator",
+          "text": "Home",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators",
+          "text": "Calculators",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/privacy",
+          "text": "Privacy",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/admin",
+          "text": "Admin Panel",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/wp-admin",
+          "text": "WordPress Admin",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/login",
+          "text": "Login",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/privacy",
+          "text": "Learn more in our Privacy Policy",
+          "isBroken": false
+        }
+      ],
+      "structuredData": [],
+      "hasBreadcrumbSchema": false,
+      "hasFAQSchema": false,
+      "hasHowToSchema": false,
+      "hasSoftwareApplicationSchema": false,
+      "citationCount": 0,
+      "sourceLinks": [],
+      "noIndex": false,
+      "issues": [
+        {
+          "severity": "P0",
+          "category": "crawlability",
+          "message": "Missing canonical tag",
+          "fix": "Add <link rel=\"canonical\" href=\"...\">"
+        },
+        {
+          "severity": "P1",
+          "category": "indexation",
+          "message": "Title too short (23 chars)",
+          "fix": "Expand title to 50-60 chars with primary keyword"
+        },
+        {
+          "severity": "P0",
+          "category": "structured-data",
+          "message": "No JSON-LD structured data",
+          "fix": "Add FAQPage, HowTo, SoftwareApplication, BreadcrumbList schemas"
+        }
+      ],
+      "score": 65
+    },
+    {
+      "urlPath": "/home-project-calculator/calculators/gravel/crushed-stone-calculator",
+      "filePath": "C:\\Users\\paula\\Documents\\projects\\home-project\\home-project-calculator-ai-developer-pack\\dist\\calculators\\gravel\\crushed-stone-calculator.html",
+      "title": "Crushed Stone Calculator — Calculate How Much You Need",
+      "titleLength": 54,
+      "description": "Free crushed stone calculator. Calculate volume, weight, cubic yards and tons for construction, drainage, and base layers. Higher density than pea gravel.",
+      "descriptionLength": 154,
+      "canonical": "https://returnflow.github.io/home-project-calculator/calculators/gravel/crushed-stone-calculator",
+      "ogTitle": "Crushed Stone Calculator — Calculate How Much You Need",
+      "ogDescription": "Free crushed stone calculator. Calculate volume, weight, cubic yards and tons for construction, drainage, and base layers. Higher density than pea gravel.",
+      "ogUrl": "https://returnflow.github.io/home-project-calculator/calculators/gravel/crushed-stone-calculator",
+      "hasViewport": true,
+      "hasLang": true,
+      "h1": "Crushed Stone Calculator — Calculate How Much You Need",
+      "h1Count": 1,
+      "hasCalculator": true,
+      "hasAnswerFirst": true,
+      "hasFAQ": true,
+      "hasHowItWorks": true,
+      "hasFormula": true,
+      "internalLinks": [
+        {
+          "href": "/home-project-calculator",
+          "text": "Home Project Calculator",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator",
+          "text": "Gravel calculators",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator",
+          "text": "Home",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators",
+          "text": "Calculators",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators/gravel",
+          "text": "Gravel Calculator",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators/gravel/crusher-run-calculator",
+          "text": "Crusher Run Calculator",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators/gravel/driveway-gravel-calculator",
+          "text": "Driveway Gravel Calculator",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator",
+          "text": "Home",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators",
+          "text": "Calculators",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/privacy",
+          "text": "Privacy",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/admin",
+          "text": "Admin Panel",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/wp-admin",
+          "text": "WordPress Admin",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/login",
+          "text": "Login",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/privacy",
+          "text": "Learn more in our Privacy Policy",
+          "isBroken": false
+        }
+      ],
+      "structuredData": [
+        {
+          "type": "BreadcrumbList, ListItem, ListItem, ListItem, ListItem",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://returnflow.github.io/home-project-calculator/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Calculators\",\"item\":\"https://returnflow.github.io/home-project-calculator/calculators\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Gravel Calculator\",\"item\":\"https://returnflow.github.io/home-project-calculator/calculators/gravel\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\""
+        },
+        {
+          "type": "FAQPage, Question, Answer, Question, Answer, Question, Answer, Question, Answer",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"How much crushed stone do I need for a patio base?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"A patio base needs 4–6 inches of crushed stone or crusher run over compacted soil. For a 12×12 ft patio, that is 4–6 cubic yards. Add 10% for compaction if using crusher run. Clean crushed stone does not compact, so order the exact calculated volume.\"}},{\"@type\":\"Question\",\"name\":\"What size crushed stone is bes"
+        },
+        {
+          "type": "HowTo, HowToStep, HowToStep, HowToStep, HowToStep",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"HowTo\",\"name\":\"How to Calculate Crushed Stone Calculator\",\"description\":\"Step-by-step guide to calculating how much crushed stone calculator you need.\",\"step\":[{\"@type\":\"HowToStep\",\"position\":1,\"name\":\"Measure your area\",\"text\":\"Measure the length and width of your project area in feet. For circular areas, measure the radius.\"},{\"@type\":\"HowToStep\",\"position\":2,\"name\":\"Choose your depth\",\"text\":\"Select the depth in inches based on your project type. Path"
+        },
+        {
+          "type": "SoftwareApplication, Offer",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Crushed Stone Calculator\",\"description\":\"Free crushed stone calculator. Calculate volume, weight, cubic yards and tons for construction, drainage, and base layers. Higher density than pea gravel.\",\"url\":\"https://returnflow.github.io/home-project-calculator/calculators/gravel/crushed-stone-calculator\",\"applicationCategory\":\"UtilitiesApplication\",\"operatingSystem\":\"Any\",\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"USD"
+        },
+        {
+          "type": "WebPage",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"name\":\"Crushed Stone Calculator\",\"description\":\"Free crushed stone calculator. Calculate volume, weight, cubic yards and tons for construction, drainage, and base layers. Higher density than pea gravel.\",\"url\":\"https://returnflow.github.io/home-project-calculator/calculators/gravel/crushed-stone-calculator\"}"
+        }
+      ],
+      "hasBreadcrumbSchema": true,
+      "hasFAQSchema": true,
+      "hasHowToSchema": true,
+      "hasSoftwareApplicationSchema": true,
+      "citationCount": 2,
+      "sourceLinks": [
+        "https://www.astm.org/standards/c29.htm",
+        "https://www.usgs.gov/centers/national-minerals-information-center/crushed-stone-statistics-and-information"
+      ],
+      "noIndex": false,
+      "issues": [],
+      "score": 100
+    },
+    {
+      "urlPath": "/home-project-calculator/calculators/gravel/crusher-run-calculator",
+      "filePath": "C:\\Users\\paula\\Documents\\projects\\home-project\\home-project-calculator-ai-developer-pack\\dist\\calculators\\gravel\\crusher-run-calculator.html",
+      "title": "Crusher Run Calculator — Calculate Compacted Base Material",
+      "titleLength": 58,
+      "description": "Free crusher run calculator. Calculate volume, weight, cubic yards and tons for compacted base layers. Crusher run includes fines for maximum compaction.",
+      "descriptionLength": 153,
+      "canonical": "https://returnflow.github.io/home-project-calculator/calculators/gravel/crusher-run-calculator",
+      "ogTitle": "Crusher Run Calculator — Calculate Compacted Base Material",
+      "ogDescription": "Free crusher run calculator. Calculate volume, weight, cubic yards and tons for compacted base layers. Crusher run includes fines for maximum compaction.",
+      "ogUrl": "https://returnflow.github.io/home-project-calculator/calculators/gravel/crusher-run-calculator",
+      "hasViewport": true,
+      "hasLang": true,
+      "h1": "Crusher Run Calculator — Calculate Compacted Base Material",
+      "h1Count": 1,
+      "hasCalculator": true,
+      "hasAnswerFirst": true,
+      "hasFAQ": true,
+      "hasHowItWorks": true,
+      "hasFormula": true,
+      "internalLinks": [
+        {
+          "href": "/home-project-calculator",
+          "text": "Home Project Calculator",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator",
+          "text": "Gravel calculators",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator",
+          "text": "Home",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators",
+          "text": "Calculators",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators/gravel",
+          "text": "Gravel Calculator",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators/gravel/driveway-gravel-calculator",
+          "text": "Driveway Gravel Calculator",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators/gravel/crushed-stone-calculator",
+          "text": "Crushed Stone Calculator",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator",
+          "text": "Home",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators",
+          "text": "Calculators",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/privacy",
+          "text": "Privacy",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/admin",
+          "text": "Admin Panel",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/wp-admin",
+          "text": "WordPress Admin",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/login",
+          "text": "Login",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/privacy",
+          "text": "Learn more in our Privacy Policy",
+          "isBroken": false
+        }
+      ],
+      "structuredData": [
+        {
+          "type": "BreadcrumbList, ListItem, ListItem, ListItem, ListItem",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://returnflow.github.io/home-project-calculator/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Calculators\",\"item\":\"https://returnflow.github.io/home-project-calculator/calculators\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Gravel Calculator\",\"item\":\"https://returnflow.github.io/home-project-calculator/calculators/gravel\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\""
+        },
+        {
+          "type": "FAQPage, Question, Answer, Question, Answer, Question, Answer, Question, Answer",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"How much crusher run do I need for a driveway base?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"A driveway base needs 4–6 inches of compacted crusher run. For a 20×24 ft (480 sq ft) driveway, you need 8–12 cubic yards of loose crusher run (order 15–20% extra to account for compaction). Weight: 13–20 tons.\"}},{\"@type\":\"Question\",\"name\":\"What is the difference between crusher run and crushed stone?\",\"accep"
+        },
+        {
+          "type": "HowTo, HowToStep, HowToStep, HowToStep, HowToStep",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"HowTo\",\"name\":\"How to Calculate Crusher Run Calculator\",\"description\":\"Step-by-step guide to calculating how much crusher run calculator you need.\",\"step\":[{\"@type\":\"HowToStep\",\"position\":1,\"name\":\"Measure your area\",\"text\":\"Measure the length and width of your project area in feet. For circular areas, measure the radius.\"},{\"@type\":\"HowToStep\",\"position\":2,\"name\":\"Choose your depth\",\"text\":\"Select the depth in inches based on your project type. Pathways"
+        },
+        {
+          "type": "SoftwareApplication, Offer",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Crusher Run Calculator\",\"description\":\"Free crusher run calculator. Calculate volume, weight, cubic yards and tons for compacted base layers. Crusher run includes fines for maximum compaction.\",\"url\":\"https://returnflow.github.io/home-project-calculator/calculators/gravel/crusher-run-calculator\",\"applicationCategory\":\"UtilitiesApplication\",\"operatingSystem\":\"Any\",\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"USD\"}}"
+        },
+        {
+          "type": "WebPage",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"name\":\"Crusher Run Calculator\",\"description\":\"Free crusher run calculator. Calculate volume, weight, cubic yards and tons for compacted base layers. Crusher run includes fines for maximum compaction.\",\"url\":\"https://returnflow.github.io/home-project-calculator/calculators/gravel/crusher-run-calculator\"}"
+        }
+      ],
+      "hasBreadcrumbSchema": true,
+      "hasFAQSchema": true,
+      "hasHowToSchema": true,
+      "hasSoftwareApplicationSchema": true,
+      "citationCount": 2,
+      "sourceLinks": [
+        "https://www.astm.org/standards/c29.htm",
+        "https://ncma.org/resources/design/"
+      ],
+      "noIndex": false,
+      "issues": [],
+      "score": 100
+    },
+    {
+      "urlPath": "/home-project-calculator/calculators/gravel/driveway-gravel-calculator",
+      "filePath": "C:\\Users\\paula\\Documents\\projects\\home-project\\home-project-calculator-ai-developer-pack\\dist\\calculators\\gravel\\driveway-gravel-calculator.html",
+      "title": "Driveway Gravel Calculator — Calculate Base and Surface Layers",
+      "titleLength": 62,
+      "description": "Free driveway gravel calculator. Calculate volume, weight, cubic yards and tons for driveway base and surface layers. Includes compaction guidance.",
+      "descriptionLength": 147,
+      "canonical": "https://returnflow.github.io/home-project-calculator/calculators/gravel/driveway-gravel-calculator",
+      "ogTitle": "Driveway Gravel Calculator — Calculate Base and Surface Layers",
+      "ogDescription": "Free driveway gravel calculator. Calculate volume, weight, cubic yards and tons for driveway base and surface layers. Includes compaction guidance.",
+      "ogUrl": "https://returnflow.github.io/home-project-calculator/calculators/gravel/driveway-gravel-calculator",
+      "hasViewport": true,
+      "hasLang": true,
+      "h1": "Driveway Gravel Calculator — Calculate Base and Surface Layers",
+      "h1Count": 1,
+      "hasCalculator": true,
+      "hasAnswerFirst": true,
+      "hasFAQ": true,
+      "hasHowItWorks": true,
+      "hasFormula": true,
+      "internalLinks": [
+        {
+          "href": "/home-project-calculator",
+          "text": "Home Project Calculator",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator",
+          "text": "Gravel calculators",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator",
+          "text": "Home",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators",
+          "text": "Calculators",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators/gravel",
+          "text": "Gravel Calculator",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators/gravel/crusher-run-calculator",
+          "text": "Crusher Run Calculator",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators/gravel/pea-gravel-calculator",
+          "text": "Pea Gravel Calculator",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator",
+          "text": "Home",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators",
+          "text": "Calculators",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/privacy",
+          "text": "Privacy",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/admin",
+          "text": "Admin Panel",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/wp-admin",
+          "text": "WordPress Admin",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/login",
+          "text": "Login",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/privacy",
+          "text": "Learn more in our Privacy Policy",
+          "isBroken": false
+        }
+      ],
+      "structuredData": [
+        {
+          "type": "BreadcrumbList, ListItem, ListItem, ListItem, ListItem",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://returnflow.github.io/home-project-calculator/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Calculators\",\"item\":\"https://returnflow.github.io/home-project-calculator/calculators\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Gravel Calculator\",\"item\":\"https://returnflow.github.io/home-project-calculator/calculators/gravel\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\""
+        },
+        {
+          "type": "FAQPage, Question, Answer, Question, Answer, Question, Answer, Question, Answer",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"How much gravel do I need for a 2-car driveway?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"A standard 2-car driveway is 20 feet wide by 24 feet long (480 sq ft). For a 4-inch base + 2-inch surface, you need approximately 8–10 cubic yards of base material and 4–5 cubic yards of surface gravel. Total weight: 15–20 tons.\"}},{\"@type\":\"Question\",\"name\":\"What is the best gravel for a driveway?\",\"acceptedAnswe"
+        },
+        {
+          "type": "HowTo, HowToStep, HowToStep, HowToStep, HowToStep",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"HowTo\",\"name\":\"How to Calculate Driveway Gravel Calculator\",\"description\":\"Step-by-step guide to calculating how much driveway gravel calculator you need.\",\"step\":[{\"@type\":\"HowToStep\",\"position\":1,\"name\":\"Measure your area\",\"text\":\"Measure the length and width of your project area in feet. For circular areas, measure the radius.\"},{\"@type\":\"HowToStep\",\"position\":2,\"name\":\"Choose your depth\",\"text\":\"Select the depth in inches based on your project type. "
+        },
+        {
+          "type": "SoftwareApplication, Offer",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Driveway Gravel Calculator\",\"description\":\"Free driveway gravel calculator. Calculate volume, weight, cubic yards and tons for driveway base and surface layers. Includes compaction guidance.\",\"url\":\"https://returnflow.github.io/home-project-calculator/calculators/gravel/driveway-gravel-calculator\",\"applicationCategory\":\"UtilitiesApplication\",\"operatingSystem\":\"Any\",\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"USD\"}}"
+        },
+        {
+          "type": "WebPage",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"name\":\"Driveway Gravel Calculator\",\"description\":\"Free driveway gravel calculator. Calculate volume, weight, cubic yards and tons for driveway base and surface layers. Includes compaction guidance.\",\"url\":\"https://returnflow.github.io/home-project-calculator/calculators/gravel/driveway-gravel-calculator\"}"
+        }
+      ],
+      "hasBreadcrumbSchema": true,
+      "hasFAQSchema": true,
+      "hasHowToSchema": true,
+      "hasSoftwareApplicationSchema": true,
+      "citationCount": 2,
+      "sourceLinks": [
+        "https://www.astm.org/standards/c29.htm",
+        "https://ncma.org/resources/design/"
+      ],
+      "noIndex": false,
+      "issues": [],
+      "score": 100
+    },
+    {
+      "urlPath": "/home-project-calculator/calculators/gravel/french-drain-gravel-calculator",
+      "filePath": "C:\\Users\\paula\\Documents\\projects\\home-project\\home-project-calculator-ai-developer-pack\\dist\\calculators\\gravel\\french-drain-gravel-calculator.html",
+      "title": "French Drain Gravel Calculator — Calculate Drainage Stone",
+      "titleLength": 57,
+      "description": "Free French drain gravel calculator. Calculate volume, weight, cubic yards and tons for drainage stone. Clean gravel without fines for maximum water flow.",
+      "descriptionLength": 154,
+      "canonical": "https://returnflow.github.io/home-project-calculator/calculators/gravel/french-drain-gravel-calculator",
+      "ogTitle": "French Drain Gravel Calculator — Calculate Drainage Stone",
+      "ogDescription": "Free French drain gravel calculator. Calculate volume, weight, cubic yards and tons for drainage stone. Clean gravel without fines for maximum water flow.",
+      "ogUrl": "https://returnflow.github.io/home-project-calculator/calculators/gravel/french-drain-gravel-calculator",
+      "hasViewport": true,
+      "hasLang": true,
+      "h1": "French Drain Gravel Calculator — Calculate Drainage Stone",
+      "h1Count": 1,
+      "hasCalculator": true,
+      "hasAnswerFirst": true,
+      "hasFAQ": true,
+      "hasHowItWorks": true,
+      "hasFormula": true,
+      "internalLinks": [
+        {
+          "href": "/home-project-calculator",
+          "text": "Home Project Calculator",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator",
+          "text": "Gravel calculators",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator",
+          "text": "Home",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators",
+          "text": "Calculators",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators/gravel",
+          "text": "Gravel Calculator",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators/gravel/river-rock-calculator",
+          "text": "River Rock Calculator",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators/gravel/crushed-stone-calculator",
+          "text": "Crushed Stone Calculator",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator",
+          "text": "Home",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators",
+          "text": "Calculators",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/privacy",
+          "text": "Privacy",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/admin",
+          "text": "Admin Panel",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/wp-admin",
+          "text": "WordPress Admin",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/login",
+          "text": "Login",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/privacy",
+          "text": "Learn more in our Privacy Policy",
+          "isBroken": false
+        }
+      ],
+      "structuredData": [
+        {
+          "type": "BreadcrumbList, ListItem, ListItem, ListItem, ListItem",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://returnflow.github.io/home-project-calculator/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Calculators\",\"item\":\"https://returnflow.github.io/home-project-calculator/calculators\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Gravel Calculator\",\"item\":\"https://returnflow.github.io/home-project-calculator/calculators/gravel\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\""
+        },
+        {
+          "type": "FAQPage, Question, Answer, Question, Answer, Question, Answer, Question, Answer",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"How much gravel do I need for a French drain?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"A standard French drain trench is 8–12 inches wide and 18–24 inches deep. For a 50-foot run, you need 5–8 cubic yards of clean drainage stone. Add 10% extra for settling. Use 3/4 to 1-1/2 inch clean stone with all fines removed.\"}},{\"@type\":\"Question\",\"name\":\"What size gravel is best for French drains?\",\"acceptedAns"
+        },
+        {
+          "type": "HowTo, HowToStep, HowToStep, HowToStep, HowToStep",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"HowTo\",\"name\":\"How to Calculate French Drain Gravel Calculator\",\"description\":\"Step-by-step guide to calculating how much french drain gravel calculator you need.\",\"step\":[{\"@type\":\"HowToStep\",\"position\":1,\"name\":\"Measure your area\",\"text\":\"Measure the length and width of your project area in feet. For circular areas, measure the radius.\"},{\"@type\":\"HowToStep\",\"position\":2,\"name\":\"Choose your depth\",\"text\":\"Select the depth in inches based on your projec"
+        },
+        {
+          "type": "SoftwareApplication, Offer",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"French Drain Gravel Calculator\",\"description\":\"Free French drain gravel calculator. Calculate volume, weight, cubic yards and tons for drainage stone. Clean gravel without fines for maximum water flow.\",\"url\":\"https://returnflow.github.io/home-project-calculator/calculators/gravel/french-drain-gravel-calculator\",\"applicationCategory\":\"UtilitiesApplication\",\"operatingSystem\":\"Any\",\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCu"
+        },
+        {
+          "type": "WebPage",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"name\":\"French Drain Gravel Calculator\",\"description\":\"Free French drain gravel calculator. Calculate volume, weight, cubic yards and tons for drainage stone. Clean gravel without fines for maximum water flow.\",\"url\":\"https://returnflow.github.io/home-project-calculator/calculators/gravel/french-drain-gravel-calculator\"}"
+        }
+      ],
+      "hasBreadcrumbSchema": true,
+      "hasFAQSchema": true,
+      "hasHowToSchema": true,
+      "hasSoftwareApplicationSchema": true,
+      "citationCount": 2,
+      "sourceLinks": [
+        "https://www.astm.org/standards/c29.htm",
+        "https://www.usgs.gov/mission-areas/water-resources"
+      ],
+      "noIndex": false,
+      "issues": [],
+      "score": 100
+    },
+    {
+      "urlPath": "/home-project-calculator/calculators/gravel/pea-gravel-calculator",
+      "filePath": "C:\\Users\\paula\\Documents\\projects\\home-project\\home-project-calculator-ai-developer-pack\\dist\\calculators\\gravel\\pea-gravel-calculator.html",
+      "title": "Pea Gravel Calculator — Calculate How Much You Need",
+      "titleLength": 51,
+      "description": "Free pea gravel calculator. Calculate volume, weight, cubic yards, bags and cost for pea gravel projects. Pea gravel is smaller and lighter than crushed stone.",
+      "descriptionLength": 159,
+      "canonical": "https://returnflow.github.io/home-project-calculator/calculators/gravel/pea-gravel-calculator",
+      "ogTitle": "Pea Gravel Calculator — Calculate How Much You Need",
+      "ogDescription": "Free pea gravel calculator. Calculate volume, weight, cubic yards, bags and cost for pea gravel projects. Pea gravel is smaller and lighter than crushed stone.",
+      "ogUrl": "https://returnflow.github.io/home-project-calculator/calculators/gravel/pea-gravel-calculator",
+      "hasViewport": true,
+      "hasLang": true,
+      "h1": "Pea Gravel Calculator — Calculate How Much You Need",
+      "h1Count": 1,
+      "hasCalculator": true,
+      "hasAnswerFirst": true,
+      "hasFAQ": true,
+      "hasHowItWorks": true,
+      "hasFormula": true,
+      "internalLinks": [
+        {
+          "href": "/home-project-calculator",
+          "text": "Home Project Calculator",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator",
+          "text": "Gravel calculators",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator",
+          "text": "Home",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators",
+          "text": "Calculators",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators/gravel",
+          "text": "Gravel Calculator",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators/gravel/driveway-gravel-calculator",
+          "text": "Driveway Gravel Calculator",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators/gravel/river-rock-calculator",
+          "text": "River Rock Calculator",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator",
+          "text": "Home",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators",
+          "text": "Calculators",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/privacy",
+          "text": "Privacy",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/admin",
+          "text": "Admin Panel",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/wp-admin",
+          "text": "WordPress Admin",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/login",
+          "text": "Login",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/privacy",
+          "text": "Learn more in our Privacy Policy",
+          "isBroken": false
+        }
+      ],
+      "structuredData": [
+        {
+          "type": "BreadcrumbList, ListItem, ListItem, ListItem, ListItem",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://returnflow.github.io/home-project-calculator/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Calculators\",\"item\":\"https://returnflow.github.io/home-project-calculator/calculators\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Gravel Calculator\",\"item\":\"https://returnflow.github.io/home-project-calculator/calculators/gravel\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\""
+        },
+        {
+          "type": "FAQPage, Question, Answer, Question, Answer, Question, Answer, Question, Answer",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"How much pea gravel do I need per square foot?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"At 2 inches deep, you need about 0.17 cubic feet (12 lbs) of pea gravel per square foot. At 3 inches deep, you need about 0.25 cubic feet (18 lbs) per square foot. Our calculator adds a 5–10% waste allowance automatically.\"}},{\"@type\":\"Question\",\"name\":\"Is pea gravel cheaper than crushed stone?\",\"acceptedAnswer\":{\""
+        },
+        {
+          "type": "HowTo, HowToStep, HowToStep, HowToStep, HowToStep",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"HowTo\",\"name\":\"How to Calculate Pea Gravel Calculator\",\"description\":\"Step-by-step guide to calculating how much pea gravel calculator you need.\",\"step\":[{\"@type\":\"HowToStep\",\"position\":1,\"name\":\"Measure your area\",\"text\":\"Measure the length and width of your project area in feet. For circular areas, measure the radius.\"},{\"@type\":\"HowToStep\",\"position\":2,\"name\":\"Choose your depth\",\"text\":\"Select the depth in inches based on your project type. Pathways n"
+        },
+        {
+          "type": "SoftwareApplication, Offer",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Pea Gravel Calculator\",\"description\":\"Free pea gravel calculator. Calculate volume, weight, cubic yards, bags and cost for pea gravel projects. Pea gravel is smaller and lighter than crushed stone.\",\"url\":\"https://returnflow.github.io/home-project-calculator/calculators/gravel/pea-gravel-calculator\",\"applicationCategory\":\"UtilitiesApplication\",\"operatingSystem\":\"Any\",\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"USD\""
+        },
+        {
+          "type": "WebPage",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"name\":\"Pea Gravel Calculator\",\"description\":\"Free pea gravel calculator. Calculate volume, weight, cubic yards, bags and cost for pea gravel projects. Pea gravel is smaller and lighter than crushed stone.\",\"url\":\"https://returnflow.github.io/home-project-calculator/calculators/gravel/pea-gravel-calculator\"}"
+        }
+      ],
+      "hasBreadcrumbSchema": true,
+      "hasFAQSchema": true,
+      "hasHowToSchema": true,
+      "hasSoftwareApplicationSchema": true,
+      "citationCount": 2,
+      "sourceLinks": [
+        "https://www.astm.org/standards/c29.htm",
+        "https://www.usgs.gov/science-support/osqi/yes/resources/aggregate-mapping"
+      ],
+      "noIndex": false,
+      "issues": [],
+      "score": 100
+    },
+    {
+      "urlPath": "/home-project-calculator/calculators/gravel/river-rock-calculator",
+      "filePath": "C:\\Users\\paula\\Documents\\projects\\home-project\\home-project-calculator-ai-developer-pack\\dist\\calculators\\gravel\\river-rock-calculator.html",
+      "title": "River Rock Calculator — Calculate How Much You Need",
+      "titleLength": 51,
+      "description": "Free river rock calculator. Calculate volume, weight, cubic yards and tons for landscaping beds, dry creek beds, and decorative ground cover.",
+      "descriptionLength": 141,
+      "canonical": "https://returnflow.github.io/home-project-calculator/calculators/gravel/river-rock-calculator",
+      "ogTitle": "River Rock Calculator — Calculate How Much You Need",
+      "ogDescription": "Free river rock calculator. Calculate volume, weight, cubic yards and tons for landscaping beds, dry creek beds, and decorative ground cover.",
+      "ogUrl": "https://returnflow.github.io/home-project-calculator/calculators/gravel/river-rock-calculator",
+      "hasViewport": true,
+      "hasLang": true,
+      "h1": "River Rock Calculator — Calculate How Much You Need",
+      "h1Count": 1,
+      "hasCalculator": true,
+      "hasAnswerFirst": true,
+      "hasFAQ": true,
+      "hasHowItWorks": true,
+      "hasFormula": true,
+      "internalLinks": [
+        {
+          "href": "/home-project-calculator",
+          "text": "Home Project Calculator",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator",
+          "text": "Gravel calculators",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator",
+          "text": "Home",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators",
+          "text": "Calculators",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators/gravel",
+          "text": "Gravel Calculator",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators/gravel/pea-gravel-calculator",
+          "text": "Pea Gravel Calculator",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators/gravel/french-drain-gravel-calculator",
+          "text": "French Drain Gravel Calculator",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator",
+          "text": "Home",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators",
+          "text": "Calculators",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/privacy",
+          "text": "Privacy",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/admin",
+          "text": "Admin Panel",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/wp-admin",
+          "text": "WordPress Admin",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/login",
+          "text": "Login",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/privacy",
+          "text": "Learn more in our Privacy Policy",
+          "isBroken": false
+        }
+      ],
+      "structuredData": [
+        {
+          "type": "BreadcrumbList, ListItem, ListItem, ListItem, ListItem",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://returnflow.github.io/home-project-calculator/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Calculators\",\"item\":\"https://returnflow.github.io/home-project-calculator/calculators\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Gravel Calculator\",\"item\":\"https://returnflow.github.io/home-project-calculator/calculators/gravel\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\""
+        },
+        {
+          "type": "FAQPage, Question, Answer, Question, Answer, Question, Answer, Question, Answer",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"How much river rock do I need for landscaping?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"For decorative ground cover, use 2–3 inches of river rock. A 100 sq ft bed needs about 1.7–2.5 cubic yards (1.5–2.3 tons). For dry creek beds, use 4–6 inches. Our calculator adds a 5–10% waste allowance.\"}},{\"@type\":\"Question\",\"name\":\"What size river rock should I use?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Fo"
+        },
+        {
+          "type": "HowTo, HowToStep, HowToStep, HowToStep, HowToStep",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"HowTo\",\"name\":\"How to Calculate River Rock Calculator\",\"description\":\"Step-by-step guide to calculating how much river rock calculator you need.\",\"step\":[{\"@type\":\"HowToStep\",\"position\":1,\"name\":\"Measure your area\",\"text\":\"Measure the length and width of your project area in feet. For circular areas, measure the radius.\"},{\"@type\":\"HowToStep\",\"position\":2,\"name\":\"Choose your depth\",\"text\":\"Select the depth in inches based on your project type. Pathways n"
+        },
+        {
+          "type": "SoftwareApplication, Offer",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"River Rock Calculator\",\"description\":\"Free river rock calculator. Calculate volume, weight, cubic yards and tons for landscaping beds, dry creek beds, and decorative ground cover.\",\"url\":\"https://returnflow.github.io/home-project-calculator/calculators/gravel/river-rock-calculator\",\"applicationCategory\":\"UtilitiesApplication\",\"operatingSystem\":\"Any\",\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"USD\"}}"
+        },
+        {
+          "type": "WebPage",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"name\":\"River Rock Calculator\",\"description\":\"Free river rock calculator. Calculate volume, weight, cubic yards and tons for landscaping beds, dry creek beds, and decorative ground cover.\",\"url\":\"https://returnflow.github.io/home-project-calculator/calculators/gravel/river-rock-calculator\"}"
+        }
+      ],
+      "hasBreadcrumbSchema": true,
+      "hasFAQSchema": true,
+      "hasHowToSchema": true,
+      "hasSoftwareApplicationSchema": true,
+      "citationCount": 2,
+      "sourceLinks": [
+        "https://www.astm.org/standards/c29.htm",
+        "https://www.usgs.gov/science-support/osqi/yes/resources/aggregate-mapping"
+      ],
+      "noIndex": false,
+      "issues": [],
+      "score": 100
+    },
+    {
+      "urlPath": "/home-project-calculator/calculators/gravel",
+      "filePath": "C:\\Users\\paula\\Documents\\projects\\home-project\\home-project-calculator-ai-developer-pack\\dist\\calculators\\gravel.html",
+      "title": "Gravel Calculator — Calculate How Much Gravel You Need",
+      "titleLength": 54,
+      "description": "Free gravel calculator. Calculate volume, weight, cubic yards, bags and cost for driveways, patios and garden paths. Supports rectangle, circle and triangle shapes.",
+      "descriptionLength": 164,
+      "canonical": "https://returnflow.github.io/home-project-calculator/calculators/gravel",
+      "ogTitle": "Gravel Calculator — Calculate How Much Gravel You Need",
+      "ogDescription": "Free gravel calculator. Calculate volume, weight, cubic yards, bags and cost for driveways, patios and garden paths. Supports rectangle, circle and triangle shapes.",
+      "ogUrl": "https://returnflow.github.io/home-project-calculator/calculators/gravel",
+      "hasViewport": true,
+      "hasLang": true,
+      "h1": "Gravel Calculator",
+      "h1Count": 1,
+      "hasCalculator": true,
+      "hasAnswerFirst": true,
+      "hasFAQ": true,
+      "hasHowItWorks": true,
+      "hasFormula": true,
+      "internalLinks": [
+        {
+          "href": "/home-project-calculator",
+          "text": "Home Project Calculator",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator",
+          "text": "Gravel calculators",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator",
+          "text": "Home",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators",
+          "text": "Calculators",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators/gravel/pea-gravel-calculator",
+          "text": "Pea Gravel Calculator",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators/gravel/driveway-gravel-calculator",
+          "text": "Driveway Gravel Calculator",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators/gravel/crushed-stone-calculator",
+          "text": "Crushed Stone Calculator",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators/gravel/river-rock-calculator",
+          "text": "River Rock Calculator",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator",
+          "text": "Home",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators",
+          "text": "Calculators",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/privacy",
+          "text": "Privacy",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/admin",
+          "text": "Admin Panel",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/wp-admin",
+          "text": "WordPress Admin",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/login",
+          "text": "Login",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/privacy",
+          "text": "Learn more in our Privacy Policy",
+          "isBroken": false
+        }
+      ],
+      "structuredData": [
+        {
+          "type": "BreadcrumbList, ListItem, ListItem, ListItem",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://returnflow.github.io/home-project-calculator/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Calculators\",\"item\":\"https://returnflow.github.io/home-project-calculator/calculators\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Gravel Calculator\",\"item\":\"https://returnflow.github.io/home-project-calculator/calculators/gravel\"}]}"
+        },
+        {
+          "type": "FAQPage, Question, Answer, Question, Answer, Question, Answer, Question, Answer, Question, Answer",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"How much gravel do I need for a driveway?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"For a standard gravel driveway, you need a 4–6 inch base layer of crusher run plus a 2–3 inch surface layer of smaller gravel. Calculate each layer separately: measure length × width × depth (in feet), then divide by 27 to get cubic yards. Add 10% for compaction and waste.\"}},{\"@type\":\"Question\",\"name\":\"How many tons of"
+        },
+        {
+          "type": "HowTo, HowToStep, HowToStep, HowToStep, HowToStep",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"HowTo\",\"name\":\"How to Calculate Gravel\",\"description\":\"Step-by-step guide to calculating how much gravel you need for your project.\",\"step\":[{\"@type\":\"HowToStep\",\"position\":1,\"name\":\"Measure your area\",\"text\":\"Measure the length and width of your project area in feet. For circular areas, measure the radius. For triangular areas, measure the base and height.\"},{\"@type\":\"HowToStep\",\"position\":2,\"name\":\"Choose your depth\",\"text\":\"Select the depth of gravel "
+        },
+        {
+          "type": "SoftwareApplication, Offer",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Gravel Calculator\",\"description\":\"Free online gravel calculator for driveways, patios, and garden paths.\",\"url\":\"https://returnflow.github.io/home-project-calculator/calculators/gravel\",\"applicationCategory\":\"UtilitiesApplication\",\"operatingSystem\":\"Any\",\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"USD\"}}"
+        },
+        {
+          "type": "WebPage",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"name\":\"Gravel Calculator\",\"description\":\"Calculate how much gravel you need for your driveway, patio, or garden path.\",\"url\":\"https://returnflow.github.io/home-project-calculator/calculators/gravel\"}"
+        }
+      ],
+      "hasBreadcrumbSchema": true,
+      "hasFAQSchema": true,
+      "hasHowToSchema": true,
+      "hasSoftwareApplicationSchema": true,
+      "citationCount": 3,
+      "sourceLinks": [
+        "https://www.astm.org/standards/c29.htm",
+        "https://www.usgs.gov/science-support/osqi/yes/resources/aggregate-mapping",
+        "https://ncma.org/resources/design/"
+      ],
+      "noIndex": false,
+      "issues": [],
+      "score": 100
+    },
+    {
+      "urlPath": "/home-project-calculator/calculators",
+      "filePath": "C:\\Users\\paula\\Documents\\projects\\home-project\\home-project-calculator-ai-developer-pack\\dist\\calculators.html",
+      "title": "Calculators — Free Gravel &amp; Landscaping Tools",
+      "titleLength": 49,
+      "description": "Browse all free home project calculators. Gravel, pea gravel, crushed stone, river rock, driveway gravel, crusher run, and French drain gravel.",
+      "descriptionLength": 143,
+      "canonical": "https://returnflow.github.io/home-project-calculator/calculators",
+      "ogTitle": "Calculators — Free Gravel &amp; Landscaping Tools",
+      "ogDescription": "Browse all free home project calculators. Gravel, pea gravel, crushed stone, river rock, driveway gravel, crusher run, and French drain gravel.",
+      "ogUrl": "https://returnflow.github.io/home-project-calculator/calculators",
+      "hasViewport": true,
+      "hasLang": true,
+      "h1": "All Calculators",
+      "h1Count": 1,
+      "hasCalculator": false,
+      "hasAnswerFirst": false,
+      "hasFAQ": false,
+      "hasHowItWorks": false,
+      "hasFormula": false,
+      "internalLinks": [
+        {
+          "href": "/home-project-calculator",
+          "text": "Home Project Calculator",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator",
+          "text": "Gravel calculators",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators/gravel",
+          "text": "Gravel CalculatorCalculate how much gravel you need for driveways, patios, and garden paths. Supports rectangle, circle, and triangle shapes.Open →",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators/gravel/pea-gravel-calculator",
+          "text": "Pea Gravel CalculatorPlan pea gravel projects for pathways, playgrounds, and decorative landscaping.Open →",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators/gravel/driveway-gravel-calculator",
+          "text": "Driveway Gravel CalculatorEstimate gravel quantities for driveway installations with compaction guidance.Open →",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators/gravel/river-rock-calculator",
+          "text": "River Rock CalculatorCalculate river rock volume and weight for landscaping beds and ground cover.Open →",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators/gravel/crushed-stone-calculator",
+          "text": "Crushed Stone CalculatorGet precise crushed stone estimates for construction and drainage projects.Open →",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators/gravel/crusher-run-calculator",
+          "text": "Crusher Run CalculatorCalculate crusher run quantities for sub-base and driveway foundations.Open →",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators/gravel/french-drain-gravel-calculator",
+          "text": "French Drain Gravel CalculatorEstimate gravel needed for French drain systems and drainage trenches.Open →",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator",
+          "text": "Home",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators",
+          "text": "Calculators",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/privacy",
+          "text": "Privacy",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/admin",
+          "text": "Admin Panel",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/wp-admin",
+          "text": "WordPress Admin",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/login",
+          "text": "Login",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/privacy",
+          "text": "Learn more in our Privacy Policy",
+          "isBroken": false
+        }
+      ],
+      "structuredData": [
+        {
+          "type": "BreadcrumbList, ListItem, ListItem",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://returnflow.github.io/home-project-calculator/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Calculators\",\"item\":\"https://returnflow.github.io/home-project-calculator/calculators\"}]}"
+        },
+        {
+          "type": "WebPage",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"name\":\"All Calculators\",\"description\":\"Browse all free home project calculators for gravel and landscaping materials.\",\"url\":\"https://returnflow.github.io/home-project-calculator/calculators\"}"
+        }
+      ],
+      "hasBreadcrumbSchema": true,
+      "hasFAQSchema": false,
+      "hasHowToSchema": false,
+      "hasSoftwareApplicationSchema": false,
+      "citationCount": 0,
+      "sourceLinks": [],
+      "noIndex": false,
+      "issues": [
+        {
+          "severity": "P1",
+          "category": "answer-first",
+          "message": "Missing FAQ section",
+          "fix": "Add FAQ with 3-5 questions targeting long-tail queries"
+        }
+      ],
+      "score": 94
+    },
+    {
+      "urlPath": "/home-project-calculator/googlef932ec83c0b69b64",
+      "filePath": "C:\\Users\\paula\\Documents\\projects\\home-project\\home-project-calculator-ai-developer-pack\\dist\\googlef932ec83c0b69b64.html",
+      "title": "",
+      "titleLength": 0,
+      "description": "",
+      "descriptionLength": 0,
+      "canonical": null,
+      "ogTitle": null,
+      "ogDescription": null,
+      "ogUrl": null,
+      "hasViewport": false,
+      "hasLang": false,
+      "h1": null,
+      "h1Count": 0,
+      "hasCalculator": false,
+      "hasAnswerFirst": false,
+      "hasFAQ": false,
+      "hasHowItWorks": false,
+      "hasFormula": false,
+      "internalLinks": [],
+      "structuredData": [],
+      "hasBreadcrumbSchema": false,
+      "hasFAQSchema": false,
+      "hasHowToSchema": false,
+      "hasSoftwareApplicationSchema": false,
+      "citationCount": 0,
+      "sourceLinks": [],
+      "noIndex": false,
+      "issues": [
+        {
+          "severity": "P0",
+          "category": "crawlability",
+          "message": "Missing canonical tag",
+          "fix": "Add <link rel=\"canonical\" href=\"...\">"
+        },
+        {
+          "severity": "P0",
+          "category": "indexation",
+          "message": "Missing <title>",
+          "fix": "Add unique <title>"
+        },
+        {
+          "severity": "P0",
+          "category": "indexation",
+          "message": "Missing meta description",
+          "fix": "Add unique meta description"
+        },
+        {
+          "severity": "P1",
+          "category": "indexation",
+          "message": "Missing viewport meta",
+          "fix": "Add <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">"
+        },
+        {
+          "severity": "P1",
+          "category": "indexation",
+          "message": "Missing lang attribute on <html>",
+          "fix": "Add lang=\"en\" to <html>"
+        },
+        {
+          "severity": "P0",
+          "category": "page-intent",
+          "message": "Missing H1",
+          "fix": "Add descriptive H1 matching target query intent"
+        },
+        {
+          "severity": "P0",
+          "category": "structured-data",
+          "message": "No JSON-LD structured data",
+          "fix": "Add FAQPage, HowTo, SoftwareApplication, BreadcrumbList schemas"
+        },
+        {
+          "severity": "P1",
+          "category": "internal-links",
+          "message": "Only 0 internal links",
+          "fix": "Add 3-5 contextual internal links to related calculators"
+        }
+      ],
+      "score": 12
+    },
+    {
+      "urlPath": "/home-project-calculator/",
+      "filePath": "C:\\Users\\paula\\Documents\\projects\\home-project\\home-project-calculator-ai-developer-pack\\dist\\index.html",
+      "title": "Home Project Calculator — Free Gravel &amp; Landscaping Calculators",
+      "titleLength": 67,
+      "description": "Free online calculators for home projects. Calculate gravel, pea gravel, crushed stone, river rock and more. Get volume, weight, bags and cost estimates instantly.",
+      "descriptionLength": 163,
+      "canonical": "https://returnflow.github.io/home-project-calculator/",
+      "ogTitle": "Home Project Calculator — Free Gravel &amp; Landscaping Calculators",
+      "ogDescription": "Free online calculators for home projects. Calculate gravel, pea gravel, crushed stone, river rock and more.",
+      "ogUrl": "https://returnflow.github.io/home-project-calculator/",
+      "hasViewport": true,
+      "hasLang": true,
+      "h1": "Free Home Project Calculators",
+      "h1Count": 1,
+      "hasCalculator": false,
+      "hasAnswerFirst": true,
+      "hasFAQ": true,
+      "hasHowItWorks": false,
+      "hasFormula": true,
+      "internalLinks": [
+        {
+          "href": "/home-project-calculator",
+          "text": "Home Project Calculator",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator",
+          "text": "Gravel calculators",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators/gravel",
+          "text": "Gravel CalculatorCalculate how much gravel you need for driveways, patios, and garden paths. Supports rectangle, circle, and triangle shapes.Open calculator →",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators/gravel/pea-gravel-calculator",
+          "text": "Pea Gravel CalculatorPlan pea gravel projects for pathways, playgrounds, and decorative landscaping. Accounts for lower bulk density of rounded stone.Open calculator →",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators/gravel/driveway-gravel-calculator",
+          "text": "Driveway Gravel CalculatorEstimate gravel quantities for driveway installations with compaction guidance.Open calculator →",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators/gravel/river-rock-calculator",
+          "text": "River Rock CalculatorCalculate river rock volume and weight for landscaping beds and ground cover.Open calculator →",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators/gravel/crushed-stone-calculator",
+          "text": "Crushed Stone CalculatorGet precise crushed stone estimates for construction and drainage projects.Open calculator →",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators/gravel/crusher-run-calculator",
+          "text": "Crusher Run CalculatorCalculate crusher run quantities for sub-base and driveway foundations.Open calculator →",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators/gravel/french-drain-gravel-calculator",
+          "text": "French Drain Gravel CalculatorEstimate gravel needed for French drain systems and drainage trenches.Open calculator →",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator",
+          "text": "Home",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators",
+          "text": "Calculators",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/privacy",
+          "text": "Privacy",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/admin",
+          "text": "Admin Panel",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/wp-admin",
+          "text": "WordPress Admin",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/login",
+          "text": "Login",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/privacy",
+          "text": "Learn more in our Privacy Policy",
+          "isBroken": false
+        }
+      ],
+      "structuredData": [
+        {
+          "type": "BreadcrumbList, ListItem",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://returnflow.github.io/home-project-calculator/\"}]}"
+        },
+        {
+          "type": "FAQPage, Question, Answer, Question, Answer, Question, Answer",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"What calculators are available?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"We offer free calculators for gravel, pea gravel, crushed stone, river rock, crusher run, driveway gravel, and French drain gravel. Each calculator provides volume, weight, bags, and cost estimates.\"}},{\"@type\":\"Question\",\"name\":\"Are these calculators free to use?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes — all calculators "
+        },
+        {
+          "type": "WebPage",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"name\":\"Home Project Calculator\",\"description\":\"Free online calculators for home projects including gravel, landscaping materials, and more.\",\"url\":\"https://returnflow.github.io/home-project-calculator/\"}"
+        }
+      ],
+      "hasBreadcrumbSchema": true,
+      "hasFAQSchema": true,
+      "hasHowToSchema": false,
+      "hasSoftwareApplicationSchema": false,
+      "citationCount": 0,
+      "sourceLinks": [],
+      "noIndex": false,
+      "issues": [],
+      "score": 100
+    },
+    {
+      "urlPath": "/home-project-calculator/login",
+      "filePath": "C:\\Users\\paula\\Documents\\projects\\home-project\\home-project-calculator-ai-developer-pack\\dist\\login.html",
+      "title": "Home Project Calculator",
+      "titleLength": 23,
+      "description": "Accurate, easy-to-use calculators for home projects — starting with gravel and landscaping materials.",
+      "descriptionLength": 101,
+      "canonical": null,
+      "ogTitle": null,
+      "ogDescription": null,
+      "ogUrl": null,
+      "hasViewport": true,
+      "hasLang": true,
+      "h1": "Page Not Found",
+      "h1Count": 1,
+      "hasCalculator": false,
+      "hasAnswerFirst": false,
+      "hasFAQ": false,
+      "hasHowItWorks": false,
+      "hasFormula": false,
+      "internalLinks": [
+        {
+          "href": "/home-project-calculator",
+          "text": "Home Project Calculator",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator",
+          "text": "Gravel calculators",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator",
+          "text": "Home",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators",
+          "text": "Calculators",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/privacy",
+          "text": "Privacy",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/admin",
+          "text": "Admin Panel",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/wp-admin",
+          "text": "WordPress Admin",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/login",
+          "text": "Login",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/privacy",
+          "text": "Learn more in our Privacy Policy",
+          "isBroken": false
+        }
+      ],
+      "structuredData": [],
+      "hasBreadcrumbSchema": false,
+      "hasFAQSchema": false,
+      "hasHowToSchema": false,
+      "hasSoftwareApplicationSchema": false,
+      "citationCount": 0,
+      "sourceLinks": [],
+      "noIndex": false,
+      "issues": [
+        {
+          "severity": "P0",
+          "category": "crawlability",
+          "message": "Missing canonical tag",
+          "fix": "Add <link rel=\"canonical\" href=\"...\">"
+        },
+        {
+          "severity": "P1",
+          "category": "indexation",
+          "message": "Title too short (23 chars)",
+          "fix": "Expand title to 50-60 chars with primary keyword"
+        },
+        {
+          "severity": "P0",
+          "category": "structured-data",
+          "message": "No JSON-LD structured data",
+          "fix": "Add FAQPage, HowTo, SoftwareApplication, BreadcrumbList schemas"
+        }
+      ],
+      "score": 65
+    },
+    {
+      "urlPath": "/home-project-calculator/privacy",
+      "filePath": "C:\\Users\\paula\\Documents\\projects\\home-project\\home-project-calculator-ai-developer-pack\\dist\\privacy.html",
+      "title": "Privacy Policy — Home Project Calculator",
+      "titleLength": 40,
+      "description": "Privacy policy for Home Project Calculator. Learn how we handle your data, cookies, and analytics.",
+      "descriptionLength": 98,
+      "canonical": "https://returnflow.github.io/home-project-calculator/privacy",
+      "ogTitle": "Privacy Policy — Home Project Calculator",
+      "ogDescription": "Privacy policy for Home Project Calculator. Learn how we handle your data, cookies, and analytics.",
+      "ogUrl": "https://returnflow.github.io/home-project-calculator/privacy",
+      "hasViewport": true,
+      "hasLang": true,
+      "h1": "Privacy Policy",
+      "h1Count": 1,
+      "hasCalculator": false,
+      "hasAnswerFirst": false,
+      "hasFAQ": false,
+      "hasHowItWorks": false,
+      "hasFormula": false,
+      "internalLinks": [
+        {
+          "href": "/home-project-calculator",
+          "text": "Home Project Calculator",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator",
+          "text": "Gravel calculators",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator",
+          "text": "Home",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators",
+          "text": "Calculators",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/privacy",
+          "text": "Privacy",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/admin",
+          "text": "Admin Panel",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/wp-admin",
+          "text": "WordPress Admin",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/login",
+          "text": "Login",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/privacy",
+          "text": "Learn more in our Privacy Policy",
+          "isBroken": false
+        }
+      ],
+      "structuredData": [
+        {
+          "type": "BreadcrumbList, ListItem, ListItem",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://returnflow.github.io/home-project-calculator/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Privacy Policy\",\"item\":\"https://returnflow.github.io/home-project-calculator/privacy\"}]}"
+        },
+        {
+          "type": "WebPage",
+          "raw": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"name\":\"Privacy Policy\",\"description\":\"Privacy policy for Home Project Calculator.\",\"url\":\"https://returnflow.github.io/home-project-calculator/privacy\"}"
+        }
+      ],
+      "hasBreadcrumbSchema": true,
+      "hasFAQSchema": false,
+      "hasHowToSchema": false,
+      "hasSoftwareApplicationSchema": false,
+      "citationCount": 0,
+      "sourceLinks": [],
+      "noIndex": false,
+      "issues": [],
+      "score": 100
+    },
+    {
+      "urlPath": "/home-project-calculator/wp-admin",
+      "filePath": "C:\\Users\\paula\\Documents\\projects\\home-project\\home-project-calculator-ai-developer-pack\\dist\\wp-admin.html",
+      "title": "Home Project Calculator",
+      "titleLength": 23,
+      "description": "Accurate, easy-to-use calculators for home projects — starting with gravel and landscaping materials.",
+      "descriptionLength": 101,
+      "canonical": null,
+      "ogTitle": null,
+      "ogDescription": null,
+      "ogUrl": null,
+      "hasViewport": true,
+      "hasLang": true,
+      "h1": "Page Not Found",
+      "h1Count": 1,
+      "hasCalculator": false,
+      "hasAnswerFirst": false,
+      "hasFAQ": false,
+      "hasHowItWorks": false,
+      "hasFormula": false,
+      "internalLinks": [
+        {
+          "href": "/home-project-calculator",
+          "text": "Home Project Calculator",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator",
+          "text": "Gravel calculators",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator",
+          "text": "Home",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators",
+          "text": "Calculators",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/privacy",
+          "text": "Privacy",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/admin",
+          "text": "Admin Panel",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/wp-admin",
+          "text": "WordPress Admin",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/login",
+          "text": "Login",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/privacy",
+          "text": "Learn more in our Privacy Policy",
+          "isBroken": false
+        }
+      ],
+      "structuredData": [],
+      "hasBreadcrumbSchema": false,
+      "hasFAQSchema": false,
+      "hasHowToSchema": false,
+      "hasSoftwareApplicationSchema": false,
+      "citationCount": 0,
+      "sourceLinks": [],
+      "noIndex": false,
+      "issues": [
+        {
+          "severity": "P0",
+          "category": "crawlability",
+          "message": "Missing canonical tag",
+          "fix": "Add <link rel=\"canonical\" href=\"...\">"
+        },
+        {
+          "severity": "P1",
+          "category": "indexation",
+          "message": "Title too short (23 chars)",
+          "fix": "Expand title to 50-60 chars with primary keyword"
+        },
+        {
+          "severity": "P0",
+          "category": "structured-data",
+          "message": "No JSON-LD structured data",
+          "fix": "Add FAQPage, HowTo, SoftwareApplication, BreadcrumbList schemas"
+        }
+      ],
+      "score": 65
+    },
+    {
+      "urlPath": "/home-project-calculator/_not-found",
+      "filePath": "C:\\Users\\paula\\Documents\\projects\\home-project\\home-project-calculator-ai-developer-pack\\dist\\_not-found.html",
+      "title": "Home Project Calculator",
+      "titleLength": 23,
+      "description": "Accurate, easy-to-use calculators for home projects — starting with gravel and landscaping materials.",
+      "descriptionLength": 101,
+      "canonical": null,
+      "ogTitle": null,
+      "ogDescription": null,
+      "ogUrl": null,
+      "hasViewport": true,
+      "hasLang": true,
+      "h1": "404",
+      "h1Count": 1,
+      "hasCalculator": false,
+      "hasAnswerFirst": false,
+      "hasFAQ": false,
+      "hasHowItWorks": false,
+      "hasFormula": false,
+      "internalLinks": [
+        {
+          "href": "/home-project-calculator",
+          "text": "Home Project Calculator",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator",
+          "text": "Gravel calculators",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator",
+          "text": "Home",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/calculators",
+          "text": "Calculators",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/privacy",
+          "text": "Privacy",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/admin",
+          "text": "Admin Panel",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/wp-admin",
+          "text": "WordPress Admin",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/login",
+          "text": "Login",
+          "isBroken": false
+        },
+        {
+          "href": "/home-project-calculator/privacy",
+          "text": "Learn more in our Privacy Policy",
+          "isBroken": false
+        }
+      ],
+      "structuredData": [],
+      "hasBreadcrumbSchema": false,
+      "hasFAQSchema": false,
+      "hasHowToSchema": false,
+      "hasSoftwareApplicationSchema": false,
+      "citationCount": 0,
+      "sourceLinks": [],
+      "noIndex": true,
+      "issues": [
+        {
+          "severity": "P0",
+          "category": "crawlability",
+          "message": "Missing canonical tag",
+          "fix": "Add <link rel=\"canonical\" href=\"...\">"
+        },
+        {
+          "severity": "P0",
+          "category": "crawlability",
+          "message": "Page has noindex directive",
+          "fix": "Remove noindex if page should be indexed"
+        },
+        {
+          "severity": "P1",
+          "category": "indexation",
+          "message": "Title too short (23 chars)",
+          "fix": "Expand title to 50-60 chars with primary keyword"
+        },
+        {
+          "severity": "P0",
+          "category": "structured-data",
+          "message": "No JSON-LD structured data",
+          "fix": "Add FAQPage, HowTo, SoftwareApplication, BreadcrumbList schemas"
+        }
+      ],
+      "score": 45
+    }
+  ],
+  "topIssues": [
+    {
+      "severity": "P0",
+      "category": "crawlability",
+      "message": "Missing canonical tag",
+      "fix": "Add <link rel=\"canonical\" href=\"...\">",
+      "count": 6
+    },
+    {
+      "severity": "P0",
+      "category": "structured-data",
+      "message": "No JSON-LD structured data",
+      "fix": "Add FAQPage, HowTo, SoftwareApplication, BreadcrumbList schemas",
+      "count": 6
+    },
+    {
+      "severity": "P0",
+      "category": "crawlability",
+      "message": "Page has noindex directive",
+      "fix": "Remove noindex if page should be indexed",
+      "count": 2
+    },
+    {
+      "severity": "P0",
+      "category": "indexation",
+      "message": "Missing <title>",
+      "fix": "Add unique <title>",
+      "count": 1
+    },
+    {
+      "severity": "P0",
+      "category": "indexation",
+      "message": "Missing meta description",
+      "fix": "Add unique meta description",
+      "count": 1
+    },
+    {
+      "severity": "P0",
+      "category": "page-intent",
+      "message": "Missing H1",
+      "fix": "Add descriptive H1 matching target query intent",
+      "count": 1
+    },
+    {
+      "severity": "P1",
+      "category": "indexation",
+      "message": "Title too short (23 chars)",
+      "fix": "Expand title to 50-60 chars with primary keyword",
+      "count": 5
+    },
+    {
+      "severity": "P1",
+      "category": "answer-first",
+      "message": "Missing FAQ section",
+      "fix": "Add FAQ with 3-5 questions targeting long-tail queries",
+      "count": 1
+    },
+    {
+      "severity": "P1",
+      "category": "indexation",
+      "message": "Missing viewport meta",
+      "fix": "Add <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+      "count": 1
+    },
+    {
+      "severity": "P1",
+      "category": "indexation",
+      "message": "Missing lang attribute on <html>",
+      "fix": "Add lang=\"en\" to <html>",
+      "count": 1
+    },
+    {
+      "severity": "P1",
+      "category": "internal-links",
+      "message": "Only 0 internal links",
+      "fix": "Add 3-5 contextual internal links to related calculators",
+      "count": 1
+    }
+  ]
+}

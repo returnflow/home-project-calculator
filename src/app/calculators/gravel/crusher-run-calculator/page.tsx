@@ -48,6 +48,38 @@ export default function CrusherRunCalculatorPage() {
             <li>Using it as a finished surface — crusher run turns muddy when wet; always add a surface layer.</li>
           </ul>
         ),
+        faqs: [
+          {
+            question: 'How much crusher run do I need for a driveway base?',
+            answer:
+              'A driveway base needs 4–6 inches of compacted crusher run. For a 20×24 ft (480 sq ft) driveway, you need 8–12 cubic yards of loose crusher run (order 15–20% extra to account for compaction). Weight: 13–20 tons.',
+          },
+          {
+            question: 'What is the difference between crusher run and crushed stone?',
+            answer:
+              'Crusher run contains crushed stone mixed with stone dust (fines), which allows it to compact to a solid, stable base. Clean crushed stone has no fines and does not compact — it is used for drainage and decorative purposes where water flow is needed.',
+          },
+          {
+            question: 'How thick should crusher run be for a shed base?',
+            answer:
+              'For a shed base, use 4–6 inches of compacted crusher run over compacted soil. For heavy equipment sheds or garages, increase to 6–8 inches. Always compact in 4-inch lifts (layers) for maximum density.',
+          },
+          {
+            question: 'How much does crusher run cost per ton?',
+            answer:
+              'Crusher run costs $15–$25 per ton, or $25–$35 per cubic yard. Delivery fees vary by distance. A typical 480 sq ft driveway base needs 13–20 tons, costing $200–$500 in materials plus delivery.',
+          },
+        ],
+        sourceLinks: [
+          {
+            label: 'ASTM C29 — Standard Test Method for Bulk Density of Aggregates',
+            href: 'https://www.astm.org/standards/c29.htm',
+          },
+          {
+            label: 'National Concrete Masonry Association — Design Resources',
+            href: 'https://ncma.org/resources/design/',
+          },
+        ],
         relatedCalculators: [
           { label: 'Gravel Calculator', href: '/calculators/gravel' },
           { label: 'Driveway Gravel Calculator', href: '/calculators/gravel/driveway-gravel-calculator' },

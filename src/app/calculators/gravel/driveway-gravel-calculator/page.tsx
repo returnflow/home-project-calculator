@@ -47,6 +47,38 @@ export default function DrivewayGravelCalculatorPage() {
             <li>Using only surface gravel with no base — the driveway will shift and rut.</li>
           </ul>
         ),
+        faqs: [
+          {
+            question: 'How much gravel do I need for a 2-car driveway?',
+            answer:
+              'A standard 2-car driveway is 20 feet wide by 24 feet long (480 sq ft). For a 4-inch base + 2-inch surface, you need approximately 8–10 cubic yards of base material and 4–5 cubic yards of surface gravel. Total weight: 15–20 tons.',
+          },
+          {
+            question: 'What is the best gravel for a driveway?',
+            answer:
+              'The best driveway has two layers: crusher run (dense grade aggregate) for the 4–6 inch base, topped with 2–3 inches of smaller gravel or pea gravel for the surface. Crusher run compacts to a solid, stable base. Never use only surface gravel.',
+          },
+          {
+            question: 'How thick should a gravel driveway be?',
+            answer:
+              'A gravel driveway needs 4–6 inches of compacted base plus 2–3 inches of surface gravel, for a total of 6–9 inches. For heavy vehicles or clay soils, increase the base to 8 inches. Always excavate 2–3 inches deeper for the sub-base.',
+          },
+          {
+            question: 'How much does a gravel driveway cost?',
+            answer:
+              'Gravel driveway materials cost $1.50–$3.00 per square foot for DIY installation. Professional installation ranges from $3–$7 per square foot. A 480 sq ft 2-car driveway costs approximately $700–$1,500 in materials.',
+          },
+        ],
+        sourceLinks: [
+          {
+            label: 'ASTM C29 — Standard Test Method for Bulk Density of Aggregates',
+            href: 'https://www.astm.org/standards/c29.htm',
+          },
+          {
+            label: 'National Concrete Masonry Association — Design Resources',
+            href: 'https://ncma.org/resources/design/',
+          },
+        ],
         relatedCalculators: [
           { label: 'Gravel Calculator', href: '/calculators/gravel' },
           { label: 'Crusher Run Calculator', href: '/calculators/gravel/crusher-run-calculator' },

@@ -1,14 +1,39 @@
 import { Metadata } from 'next'
+import { BreadcrumbListSchema, WebPageSchema } from '@/components/seo/structured-data'
+
+const BASE_URL = 'https://returnflow.github.io/home-project-calculator'
 
 export const metadata: Metadata = {
   title: 'Privacy Policy — Home Project Calculator',
   description:
     'Privacy policy for Home Project Calculator. Learn how we handle your data, cookies, and analytics.',
+  alternates: {
+    canonical: `${BASE_URL}/privacy`,
+  },
+  openGraph: {
+    title: 'Privacy Policy — Home Project Calculator',
+    description:
+      'Privacy policy for Home Project Calculator. Learn how we handle your data, cookies, and analytics.',
+    url: `${BASE_URL}/privacy`,
+    type: 'website',
+  },
 }
 
 export default function PrivacyPage() {
   return (
-    <div className="mx-auto max-w-3xl space-y-8">
+    <>
+      <BreadcrumbListSchema
+        items={[
+          { name: 'Home', item: `${BASE_URL}/` },
+          { name: 'Privacy Policy', item: `${BASE_URL}/privacy` },
+        ]}
+      />
+      <WebPageSchema
+        name="Privacy Policy"
+        description="Privacy policy for Home Project Calculator."
+        url={`${BASE_URL}/privacy`}
+      />
+      <div className="mx-auto max-w-3xl space-y-8">
       <div className="space-y-2">
         <h1 className="text-3xl font-bold tracking-tight sm:text-4xl">Privacy Policy</h1>
         <p className="text-gray-500">Last updated: August 12, 2026</p>
@@ -137,5 +162,6 @@ export default function PrivacyPage() {
         </p>
       </section>
     </div>
+    </>
   )
 }

@@ -47,6 +47,38 @@ export default function FrenchDrainGravelCalculatorPage() {
             <li>Flat or reverse slope — water must flow downhill; a 1% minimum slope is essential.</li>
           </ul>
         ),
+        faqs: [
+          {
+            question: 'How much gravel do I need for a French drain?',
+            answer:
+              'A standard French drain trench is 8–12 inches wide and 18–24 inches deep. For a 50-foot run, you need 5–8 cubic yards of clean drainage stone. Add 10% extra for settling. Use 3/4 to 1-1/2 inch clean stone with all fines removed.',
+          },
+          {
+            question: 'What size gravel is best for French drains?',
+            answer:
+              'Use 3/4 inch to 1-1/2 inch clean, washed gravel with all fines removed. This size creates optimal void space for water flow while staying in place. Avoid pea gravel (too small, may clog) and crusher run (contains fines that block drainage).',
+          },
+          {
+            question: 'How deep should a French drain be?',
+            answer:
+              'French drains should be 18–24 inches deep, below the frost line in your region. The bottom must slope toward the discharge point at a minimum 1% grade (1 inch drop per 8 feet). Deeper is better for foundation drainage.',
+          },
+          {
+            question: 'Do French drains need a fabric liner?',
+            answer:
+              'Yes — always wrap the trench and perforated pipe in landscape fabric or a geotextile sock. Without fabric, soil particles wash into the stone voids and clog the drain within 2–5 years. Use a permeable non-woven fabric rated for drainage.',
+          },
+        ],
+        sourceLinks: [
+          {
+            label: 'ASTM C29 — Standard Test Method for Bulk Density of Aggregates',
+            href: 'https://www.astm.org/standards/c29.htm',
+          },
+          {
+            label: 'USGS Water Resources — Drainage Design',
+            href: 'https://www.usgs.gov/mission-areas/water-resources',
+          },
+        ],
         relatedCalculators: [
           { label: 'Gravel Calculator', href: '/calculators/gravel' },
           { label: 'River Rock Calculator', href: '/calculators/gravel/river-rock-calculator' },

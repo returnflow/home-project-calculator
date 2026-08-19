@@ -12,7 +12,7 @@ export type SeoConfig = {
 }
 
 export function buildMetadata(config: SeoConfig) {
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://example.com'
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://returnflow.github.io/home-project-calculator'
   const canonical = `${baseUrl}${config.path}`
 
   return {
